@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp -o main
+	g++ BinarySearchP.cpp -o BinarySearchP
